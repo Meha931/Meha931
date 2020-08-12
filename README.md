@@ -1,6 +1,12 @@
-### Hi there 👋
+# Meeeeeeeeehhha, and 9-3-1
+Yup, that's me
 
-<!--
+Am just making some stuff with JavaScript and... well, not much else, heh
+
+So uh, don't know now what to write about.. <!-- Now don't mention the template, I don't really want to use it now x3 -->
+But feel free to contact me ~~somehow~~ ^^
+
+<!-- Am saving this lil guide
 **Meha931/Meha931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
