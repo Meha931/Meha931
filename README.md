@@ -1,12 +1,20 @@
+# MEEEeeeeeehhha
+###### ...and 931
+
+I study C, do small programs with Javascript+HTML, learn Lua and try to draw sometimes.
+
+~~And I still am an amateur at all of these~~
+
+<!--
 # Meeeeeeeeehhha, and 9-3-1
 Yup, that's me
 
 Am just making some stuff with JavaScript and... well, not much else.
 
-So uh, don't know now what to write about... <!-- Now don't mention the template, I don't really want to use it now, heh -->
+So uh, don't know now what to write about...
 See my [webpage](https://meha931.github.io), I guess.
-
-<!-- Am saving this lil guide
+-->
+<!-- Am saving this guide
 **Meha931/Meha931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
