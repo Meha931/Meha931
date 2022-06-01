@@ -1,5 +1,5 @@
 # MEEEeeeeeehhha
-###### ...and 931
+<sup>...and 931</sup>
 
 I study C, do small programs with Javascript+HTML, learn Lua and try to draw sometimes.
 
